@@ -36,39 +36,43 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Here begynneth the boke called the example of vertuExample of vertuHawes, Stephen, d. 1523?1504Appro
+¶Here begynneth the boke called the example of vertu.
+1. Tabula libri
+¶This boke called the example of vertue was made and compyled by Stephyn hawys one of the gromes of 
+1. The prologe.
+
 #####Body#####
+Capitulum primūIN Septembre in fallynge of the lefeWhan phebus made his declynacyonAnd all the whet
+    _ Capitulum primū
 
-1. Capitulum primū
+    _ ¶Capitulum.ii.
 
-1. ¶Capitulum.ii.
+    _ Capitulum tercium.
 
-1. Capitulum tercium.
+    _ Capitulum. iiii.
 
-1. Capitulum. iiii.
+    _ Capitulum.v.
 
-1. Capitulum.v.
+    _ Capitulum.vi.
 
-1. Capitulum.vi.
+    _ Capitulm.vii.
 
-1. Capitulm.vii.
+    _ Capitulum.viii.
 
-1. Capitulum.viii.
+    _ Capitulum nonum
 
-1. Capitulum nonum
+    _ Capitulum.x.
 
-1. Capitulum.x.
+    _ Capitulum.xi.
 
-1. Capitulum.xi.
+    _ ¶Capitulum.xii.
 
-1. ¶Capitulum.xii.
+    _ Capitulum.xiii.
 
-1. Capitulum.xiii.
-
-1. Capitulum.xiiii
+    _ Capitulum.xiiii
 
 #####Back#####
-Here begynneth the boke called the example of vertuExample of vertuHawes, Stephen, d. 1523?1504Appro
+¶Here beginneth a lytel treatyse that she weth how euery man & woman ought to faste and absteyne the
 **Types of content**
 
   * There are 2140 **verse** lines!
